@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff02f4b5.css",
-    "main.js": "/static/js/main.00ad1dfc.js",
-    "static/js/453.a844186c.chunk.js": "/static/js/453.a844186c.chunk.js",
-    "static/media/alien.png": "/static/media/alien.531d2d45c535d63ec64c.png",
-    "index.html": "/index.html",
-    "main.ff02f4b5.css.map": "/static/css/main.ff02f4b5.css.map",
-    "main.00ad1dfc.js.map": "/static/js/main.00ad1dfc.js.map",
-    "453.a844186c.chunk.js.map": "/static/js/453.a844186c.chunk.js.map"
+    "main.css": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/css/main.ff02f4b5.css",
+    "main.js": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/main.a7bbaf00.js",
+    "static/js/453.a844186c.chunk.js": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/453.a844186c.chunk.js",
+    "static/media/alien.png": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/media/alien.531d2d45c535d63ec64c.png",
+    "index.html": "https://juansebastianperniola.github.io/reactLDM/tabla/build/index.html",
+    "main.ff02f4b5.css.map": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/css/main.ff02f4b5.css.map",
+    "main.a7bbaf00.js.map": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/main.a7bbaf00.js.map",
+    "453.a844186c.chunk.js.map": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/453.a844186c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.00ad1dfc.js"
+    "static/js/main.a7bbaf00.js"
   ]
 }
