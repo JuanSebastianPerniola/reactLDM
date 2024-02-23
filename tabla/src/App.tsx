@@ -1,7 +1,7 @@
 import React from 'react';
 import { dummyData, Item } from './Row'; // Import dummyData function and Item type
 import Table from 'react-bootstrap/Table';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   // Call dummyData to get an array of items
   const items: Item[] = dummyData();
