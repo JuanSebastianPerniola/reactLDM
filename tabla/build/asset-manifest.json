@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/css/main.cbc512fe.css",
-    "main.js": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/js/main.a61d8f58.js",
-    "static/js/453.a844186c.chunk.js": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/js/453.a844186c.chunk.js",
-    "static/media/alien.png": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/media/alien.531d2d45c535d63ec64c.png",
-    "index.html": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/index.html",
-    "main.cbc512fe.css.map": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/css/main.cbc512fe.css.map",
-    "main.a61d8f58.js.map": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/js/main.a61d8f58.js.map",
-    "453.a844186c.chunk.js.map": "https://juansebastianperniola.github.io/REACTLDM/tabla/build/static/js/453.a844186c.chunk.js.map"
+    "main.css": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/css/main.cbc512fe.css",
+    "main.js": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/main.a7bbaf00.js",
+    "static/js/453.a844186c.chunk.js": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/453.a844186c.chunk.js",
+    "static/media/alien.png": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/media/alien.531d2d45c535d63ec64c.png",
+    "index.html": "https://juansebastianperniola.github.io/reactLDM/tabla/build/index.html",
+    "main.cbc512fe.css.map": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/css/main.cbc512fe.css.map",
+    "main.a7bbaf00.js.map": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/main.a7bbaf00.js.map",
+    "453.a844186c.chunk.js.map": "https://juansebastianperniola.github.io/reactLDM/tabla/build/static/js/453.a844186c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc512fe.css",
-    "static/js/main.a61d8f58.js"
+    "static/js/main.a7bbaf00.js"
   ]
 }
