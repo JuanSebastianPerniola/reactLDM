@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "set PUBLIC_URL=https://juansebastianperniola.github.io/reactLDM/tabla/build&&react-scripts build",
+    "build": "set PUBLIC_URL=https://juansebastianperniola.github.io/REACTLDM/tabla/build&&react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
